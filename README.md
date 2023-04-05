@@ -1,2 +1,1 @@
-# adivinador-de-emociones-BETA-
-BETA
+# EMOCIÓN-A-EMOJI
